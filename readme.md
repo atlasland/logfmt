@@ -1,9 +1,13 @@
 # logfmt for Deno
 
-> Status: ⚠️ Under active development
-
 A [logfmt](https://brandur.org/logfmt) implementation for Deno.
+
+> ⚠️ This project is unstable and actively being developed. Use with caution.
 
 ## Usage
 
-TBD
+TBD.
+
+## License
+
+Licensed under the [MIT License](/license).
